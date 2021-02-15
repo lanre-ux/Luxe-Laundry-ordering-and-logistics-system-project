@@ -20,7 +20,7 @@ Solution to their problem: Luxe would like to a logistics and orderring system t
       d. when the laudry has been put into wash
       e. when the laudry will be retured with estimated date and time
 4)	Personal log ins for each organization. With varying permission levels
-      a.	Delivery driver can confirm when order collected and delivered but not washers (for instance)
+      a.	Delivery driver can confirm when order collected and delivered but not washers for example
 5)	Ability to maintain order history for each customer.
       a.	By including prices for each item & rejects, invoicing for customers is simple
       b.	This also allows customers to see prices before order is placed
