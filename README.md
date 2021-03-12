@@ -1,4 +1,4 @@
-# Luxe-Laundry-Ordering-and-Logistics-System-Project
+# Luxe-Laundry-Ordering-and-Logistics-System-Project.
 This project was created for Luxe Laundry to solve their problem with logistics and ordering system that would unsure proper checks are made at all points throughout the ordering and wash process.
 
 Problem Luxe Laudry is facing: When a customerr requests a wash order for x amout of linin. therre are currently a numberr of checks and confirmations that happen only sporadically. this can results in the following types of problems
