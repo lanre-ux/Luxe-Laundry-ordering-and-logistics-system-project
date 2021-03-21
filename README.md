@@ -13,7 +13,7 @@ Solution to their problem: Luxe would like to a logistics and orderring system t
       a. Number of items send to luxe.
       b. reject laundry checked as unloaded.
       c. number of items send from luxe back to customer. 
-3) the app must provide status of order: 
+3) The app must provide status of order: 
       a. order placed(number of items conffirmed by both parties. 
       b. order collention, an estimated date and time of collection.
       c. pre wash check where rejected laundry will be indentified and pictues will be uploaded
