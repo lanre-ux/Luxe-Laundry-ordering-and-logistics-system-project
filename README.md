@@ -9,7 +9,7 @@ Problem Luxe Laudry is facing: When a customerr requests a wash order for x amou
 Solution to their problem: Luxe would like to a logistics and orderring system that ensures proper checks happen at all points throughout the ordering and wash process with key specifications:
 
 1) The system can be accessed via an application from a tablet or smartphone or accessed via a destop for ease at customer discretion.
-2) the system provided two way authentication checks ffrrom Luxe and customer at the following stages of ordering:
+2) The system provided two way authentication checks ffrrom Luxe and customer at the following stages of ordering:
       a. Number of items send to luxe.
       b. reject laundry checked as unloaded.
       c. number of items send from luxe back to customer. 
